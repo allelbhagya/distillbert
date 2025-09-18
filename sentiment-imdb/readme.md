@@ -1,1 +1,1 @@
-model card : https://huggingface.co/allelbhagya/fine-tune-sentiment
+model: https://huggingface.co/allelbhagya/fine-tune-sentiment
